@@ -1,0 +1,91 @@
+
+
+body {
+	padding-top: 0px;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+	font-size: 15px;
+}
+
+h1,h2,h3,h4,h5{ 
+	font-family: 'Helvetica', 'Arial', sans-serif;
+	font-weight: normal;
+}
+
+h1{
+	font-size: 26pt;
+}
+
+h2{
+	font-size: 24pt;
+}
+
+h3{
+	font-size: 22px;
+}
+
+h4{
+	font-size: 18px;
+}
+
+h5 {
+	color: #6599FF;
+	font-size: 16px;
+}
+
+
+.well {
+	background-color:#FEFCFF;
+}
+
+.shiny-output-error-validation {
+/*	visibility: hidden; */
+	color: #4169e1; 
+	font-weight: bold;
+}
+
+.shiny-output-error { 
+	visibility: visible; 
+	color: #4169e1; 
+	font-weight: bold;
+}
+
+.shiny-output-error:before { 
+	visibility: visible; 
+	content: ''; 
+	color: #ff6347;
+}
+ 
+.selectize-control.single .selectize-dropdown{ 
+	color: grey;
+	font-weight: normal;
+}
+
+.selectize-input { 
+	font-weight: normal;
+}
+
+.selected {
+	font-weight: normal!important;
+}
+
+.help-block {color: #7393B3 !important;}
+
+/*.shiny-progress {
+  height: 70px;
+  width: 800px;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 60px;
+  position:fixed;
+  top: 50% !important;
+  left: 50% !important;
+  margin-top: -100px !important;
+  margin-left: -250px !important;
+}
+*/
+/*
+.navbar { 
+	background-color: #FEFCFF;
+	 font-family: 'Helvetica', 'Arial', sans-serif;
+	 font-size: 16px;
+	 color: #6599FF; 
+	}*/
